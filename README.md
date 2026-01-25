@@ -1,18 +1,20 @@
 # lfx-prep
-My journey learning Git, Github , and open source basics as preparation for the LFX mentorship program
+My journey of learning Git, Github , and open source basics in  preparation for the LFX mentorship program
 
-This repository documents my journey of learning:
+## What I am Learning:
 -Git and Github 
--Open source basics
--python fundamentals
+-Open-source contribution  basics
+-collaboration workflow
 
-##Goal
-To build a strong foundation for participating in open-source programs like:
+## Goal
+To build a strong foundation for participating in open-source programs,with a primary focus on :
 -Linux foundation Mentorship(LFX)
+
+And Future oppurtunities such as:
 -Google Summer Of Code(GSOC)
 -Summer Of Bitcoin
 
-##Current Status 
--Git and Github basics
--Clean Commits
--Understanding open-source workflow
+## Current Status 
+-Learning Git and Github basics
+-Writing clean and meaningful Commits
+-Understanding the open-source contribution workflow
